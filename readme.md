@@ -1,6 +1,6 @@
 # C Practice Repo
 
-This repository contains a collection of my C programs and exercises for practice.....
+This repository contains a collection of my C programs and exercises for practice.......
 
 
 ## Installation
